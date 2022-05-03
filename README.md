@@ -6,5 +6,5 @@ ___
 * Built using:
    * HTML
    * CSS
-* Buitl by:
+* Built using:
    * Visual Studio Code
